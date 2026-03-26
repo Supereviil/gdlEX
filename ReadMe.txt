@@ -70,7 +70,12 @@ Known Limitations (Alpha)
 • macOS and Linux versions are planned
 • Some rename operations may behave differently depending on filenames
 • Output parsing is basic and may not detect all file events
+• Folder structuring is a bit off, will be tweaked in the future
 • UI polish and error handling will improve over time
+
+Future Plans
+• Name Change (g-dlphi is only temporary)
+• New Icon
 
 Contact for Requests and Bug Reports
 If you find a bug or want to request a feature, open an issue and I'll have a look
