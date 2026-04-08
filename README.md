@@ -110,12 +110,6 @@ Optional:
 
 ---
 
-## Build
-
-Open `gallerydlgui.dproj` in Delphi and build the **Release** configuration.
-
----
-
 ## Important note
 
 `gdlEX` depends on `gallery-dl`.  
