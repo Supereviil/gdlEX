@@ -1,4 +1,4 @@
-# g-dlphi — GUI Frontend for gallery-dl (Alpha Test Release)
+# gdlEX — GUI Frontend for gallery-dl (Alpha Test Release)
 
 ## Overview
 **g-dlphi** is a Windows desktop application that provides a graphical interface for `gallery-dl`, allowing users to download images, videos, and other media without using command-line arguments. This tool is intended for testing and feedback during early development.
