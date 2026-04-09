@@ -1,5 +1,6 @@
 # gdlEX
 ## A practical companion for `gallery-dl` power users
+<img width="700" height="436" alt="Screenshot" src="https://github.com/user-attachments/assets/10a17e0f-4854-448b-b66f-54f4774e8759" />
 
 `gdlEX` isn’t trying to replace `gallery-dl`. It sits on top of it and handles the parts that get annoying when you’re running downloads every day:  queue prep, repeatable settings, safer starts/stops, and a cleaner workflow overall.
 
