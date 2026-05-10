@@ -75,7 +75,6 @@ These are native gallery-dl capabilities, just presented in a way that won’t m
 # 2️⃣ gdlEX Companion Features (The Fun Stuff)
 
 These features do **not** exist in gallery-dl.  
-These are the “Superevil Enterprises” enhancements.
 
 ## 🖥️ UI & Workflow
 - Modern Windows UI  
