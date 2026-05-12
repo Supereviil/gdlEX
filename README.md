@@ -1,11 +1,7 @@
 # gdlEX — The Over‑Engineered Companion App for gallery-dl  
-gdlEX is what happens when you look at gallery-dl and say:  
-“Yeah this is powerful… but what if it had a Windows UI, automation, post‑processing, session intelligence, and a touch of style?”
+gdlEX is a Windows control layer for gallery‑dl: queueing, automation, post‑processing, session tracking, and a UI that makes large download jobs manageable. No gimmicks. Just tools.
 
-This is not “just a GUI.”  
-This is a **Companion App** — the kind that takes gallery-dl, straps boosters to it, and makes it behave like a civilized desktop tool.
-
-Built with love, spite, and Delphi.
+🏛️ Assembled in Delphi because I refuse to suffer.
 
 <img width="700" height="436" alt="screenshot2" src="https://github.com/user-attachments/assets/cd053b38-8732-411b-bf9a-6d3b157fa74e" />
 
